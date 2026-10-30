@@ -1,0 +1,6 @@
+{
+  "name": "Suraksha Voice Kiosk",
+  "description": "Accessible, multilingual voice-first factory safety kiosk empowering workers in Marathi, Hindi, and English with interactive audio guidance, teach-back comprehension checks, and manager safety insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
